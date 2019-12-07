@@ -45,7 +45,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Description.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-		&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt; Long Description.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24353</dc:source>
