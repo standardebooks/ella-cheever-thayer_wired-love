@@ -45,7 +45,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A romance begins over the wire between two telegraph operators.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Using her experience from being a telegraph operator at the Brunswick Hotel in Boston, Massachusetts, Ella Cheever Thayer wrote her book, &lt;i&gt;Wired Love: A Romance of Dots and Dashes&lt;/i&gt;. The story begins with Nathalie Rogers receiving a call from another telegrapher, who goes by "C," who manages to make her laugh. Little did they know, this was the beginning of a beautiful romance between two people who do not know anything about each other or even what they look like. &lt;i&gt;Wired Love&lt;/i&gt; was a bestseller for 10 years after it was published.&lt;/p&gt;
+			&lt;p&gt;Using her experience from being a telegraph operator at the Brunswick Hotel in Boston, Massachusetts, Ella Cheever Thayer wrote her book, &lt;i&gt;Wired Love: A Romance of Dots and Dashes&lt;/i&gt;. The story begins with Nathalie Rogers receiving a call from another telegrapher, who goes by ‘C,’ who manages to make her laugh. Little did they know, this was the beginning of a beautiful romance between two people who do not know anything about each other or even what they look like. &lt;i&gt;Wired Love&lt;/i&gt; was a bestseller for 10 years after it was published.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24353</dc:source>
