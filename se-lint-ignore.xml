@@ -5,6 +5,10 @@
 			<code>y-014</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
+		<ignore>
+			<code>t-076</code>
+			<reason>Matched text is dialect and not a grapheme.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-7.xhtml">
 		<ignore>
