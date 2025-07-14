@@ -22,4 +22,22 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-16.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
