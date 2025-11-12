@@ -67,8 +67,8 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Andrew Katz</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Katz, Andrew</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Sweeney, Emma</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
