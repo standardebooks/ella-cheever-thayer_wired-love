@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Wired Love: A Romance of Dots and Dashes</dc:title>
 		<meta property="file-as" refines="#fulltitle">Wired Love</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Love stories</dc:subject>
 		<dc:subject id="subject-2">Telegraphers -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
